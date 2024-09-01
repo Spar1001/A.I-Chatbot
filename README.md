@@ -1,4 +1,4 @@
-**Disease Prediction Chatbot**
+**Disease Prediction Chatbot(MediBot)**
 
 This project is a disease prediction chatbot that allows users check their BMI, and interact with a chatbot to identify potential health issues based on their symptoms.
 
